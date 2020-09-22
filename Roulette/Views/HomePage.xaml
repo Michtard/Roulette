@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Menu Principal"
+             x:Class="Roulette.Views.HomePage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" 
+                     HorizontalOptions="FillAndExpand" 
+                     VerticalOptions="FillAndExpand"
+                     Spacing="0"
+                     BackgroundColor="#58605A">
+            <StackLayout Orientation="Vertical" 
+                     HorizontalOptions="FillAndExpand" 
+                     VerticalOptions="Start"
+                     BackgroundColor="#3B443D">
+                <Image Source="roulette.png" 
+                       HeightRequest="200"
+                       Margin="0, 35, 0, 0"/>
+                <Label Text="ROULETTE"
+                       Margin="0, 10, 0, 20"
+                       TextColor="White"
+                       HorizontalOptions="Center" 
+                       FontSize="30"
+                       FontAttributes="Bold">
+                </Label>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" 
+                         HorizontalOptions="FillAndExpand" 
+                         VerticalOptions="FillAndExpand"
+                         Margin="30, 0, 30, 0">
+                <Button Text="Lancer une partie"
+                        Clicked="PlayGame_Clicked"
+                        HorizontalOptions="FillAndExpand"
+                        Style="{StaticResource boutonLabStyle}"
+                        Margin="0, 60, 0, 0"/>
+                <Button Text="Tableau de scores"
+                        Clicked="ListScores_Clicked"
+                        HorizontalOptions="FillAndExpand"
+                        Style="{StaticResource boutonLabStyle}"
+                        Margin="0, 10, 0, 0"/>
+                <Button x:Name="BtnAdmin"
+                        Text="Reset score table"
+                        Clicked="Admin_Clicked"
+                        HorizontalOptions="FillAndExpand"
+                        Style="{StaticResource boutonLabStyle}"
+                        Margin="0, 10, 0, 0"
+                        BackgroundColor="#c60e3c"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

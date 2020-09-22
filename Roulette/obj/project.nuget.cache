@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "odY230Pyk0Or+KiPrHFIagG3SHSf66xsN6VYwzJXbGA6VcWjW8IBGKfSF0kWd56R7u7w7VkB0svpw3YrdCkHfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeremy\\source\\repos\\Roulette\\Roulette\\Roulette.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\xamarin.forms\\4.4.0.991757\\xamarin.forms.4.4.0.991757.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Scores"
+             x:Class="Roulette.Views.ScorePage">
+    <ContentPage.Content>
+        <ListView x:Name="maListeView"
+                  SeparatorVisibility="Default"
+                  SeparatorColor="Black"
+                  BackgroundColor="#58605A">            
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" 
+                                     HorizontalOptions="FillAndExpand"
+                                     VerticalOptions="Center"
+                                     Margin="15, 0, 15, 0">
+                            <Label Text="{Binding Classement}"
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   TextColor="White"/>
+                            <Label Text="."
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   TextColor="White"/>
+                            <Label Text="{Binding Name}"
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   TextColor="White"/>
+                            <Label Text="{Binding Credit}"
+                                   FontSize="20"
+                                   TextColor="White"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

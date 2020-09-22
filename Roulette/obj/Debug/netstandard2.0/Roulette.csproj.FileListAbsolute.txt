@@ -1,0 +1,17 @@
+C:\Users\Jeremy\source\repos\Roulette\Roulette\bin\Debug\netstandard2.0\Roulette.deps.json
+C:\Users\Jeremy\source\repos\Roulette\Roulette\bin\Debug\netstandard2.0\Roulette.dll
+C:\Users\Jeremy\source\repos\Roulette\Roulette\bin\Debug\netstandard2.0\ref\Roulette.dll
+C:\Users\Jeremy\source\repos\Roulette\Roulette\bin\Debug\netstandard2.0\Roulette.pdb
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Roulette.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Views\GamePage.xaml.g.cs
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Views\ScorePage.xaml.g.cs
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Roulette.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Roulette.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Roulette.dll
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\ref\Roulette.dll
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Roulette.pdb
+C:\Users\Jeremy\source\repos\Roulette\Roulette\obj\Debug\netstandard2.0\Roulette.csproj.CoreCompileInputs.cache
